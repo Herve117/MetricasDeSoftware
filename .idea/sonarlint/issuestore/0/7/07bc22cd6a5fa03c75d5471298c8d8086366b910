@@ -1,0 +1,33 @@
+
+q
+java:S1604À"(Make this anonymous inner class a lambda(íõşñüÿÿÿÿ8Ê¼şø1J$d532d8c8-d39a-4fa1-be3a-d1d680d48201
+q
+java:S1604Ê"(Make this anonymous inner class a lambda(Å¾Š…ıÿÿÿÿ8Ë¼şø1J$2ce6ae5f-2c69-44b7-ac62-422127dd3ac3
+l
+java:S1604‡"(Make this anonymous inner class a lambda(·Ùİ‡8Ë¼şø1J$92bb5ab8-4f03-4891-bc52-a365413bd015
+œ	java:S116*"URename this field "SELECCIONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÄ›éÿÿÿÿÿ8¯¼şø1J$2e8f6086-81d0-4135-8a7f-0c754a8a1254
+i
+java:S1170*"!Make this final field static too.(şÄ›éÿÿÿÿÿ8¯¼şø1J$25728b20-775f-4a68-94d6-fc940c571170
+„	java:S107/"BConstructor has 18 parameters, which is greater than 7 authorized.(µê”ƒ8¶¼şø1J$f3879a58-1fc6-4eb1-8fb1-ec6dc531d60a
+	java:S107ÿ"<Method has 8 parameters, which is greater than 7 authorized.(„°¥8¶¼şø1J$bc14a80b-34b9-4da8-9989-02c3ac8f045f
+›
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¯ÕÊŠøÿÿÿÿ8¿¼şø1J$822ac5fa-e83a-4f71-938c-af26430c3bad
+	java:S125·"<This block of commented-out lines of code should be removed.(®êò¯8È¼şø1J$1fdbfa0a-6a50-4027-a08c-3c84d7aeaec8
+ˆ
+java:S3358Ì"DExtract this nested ternary operation into an independent statement.(‡´ÛŒ8Í¼şø1J$44cbe7d1-b1f6-4413-8e67-783cb0f0fc8e
+	java:S125£"<This block of commented-out lines of code should be removed.(¢†Ë8€¼şø1J$eb5ee05b-cfc8-44fb-8f07-eaeecb833dc3
+„	java:S125å"<This block of commented-out lines of code should be removed.(…¡€œûÿÿÿÿ8‡¼şø1J$f9f86e5a-1287-487e-aed6-61b0ca32b6e3
+o
+java:S1068",Remove this unused "language" private field.(üŸèØ8’¼şø1J$0548684d-6178-46c6-8d8e-1521e1271c72
+r
+java:S1068"*Remove this unused "review" private field.(õ­Çœüÿÿÿÿ8’¼şø1J$3f819752-a6e2-4435-a2ed-55b4ce86bb21
+t
+java:S1068"1Remove this unused "reviewQueries" private field.(Õ÷µ°8’¼şø1J$6bbd597c-c0cd-4042-a7c8-b03ab5a14b13
+o
+java:S1068"-Remove this unused "specialty" private field.(­ü»#8’¼şø1J$511d6f9c-b6c7-41a7-b370-d96d88aaf944
+s
+java:S1068 "0Remove this unused "healthCenter" private field.(Ã‡«ƒ8“¼şø1J$6fed92be-33be-445d-95cd-78cef0aa75f8
+q
+java:S1068'".Remove this unused "reviewPage" private field.(¼Ç¹´8“¼şø1J$83304ffd-1dfe-4f42-962b-4ec15e9ed33a
+ƒ
+java:S1144Î"@Remove this unused private "setHealthCenterItemsVisible" method.(ô¥š98“¼şø1J$258fb69c-9a8a-4dd1-9d34-2a2060900af4

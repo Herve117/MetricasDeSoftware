@@ -1,0 +1,42 @@
+
+j
+java:S1604¨"(Make this anonymous inner class a lambda(íõşñüÿÿÿÿJ$33e7ff76-c0b9-49ef-b660-39b1eb0ed908
+e
+java:S1604ó"(Make this anonymous inner class a lambda(·Ùİ‡J$8dd493a8-75ce-497a-b14b-f1cbb56922ac
+•	java:S116*"URename this field "SELECCIONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÄ›éÿÿÿÿÿJ$cfea81ce-d22a-4c18-94f7-6f070835d93d
+b
+java:S1170*"!Make this final field static too.(şÄ›éÿÿÿÿÿJ$00678eb8-2e81-4070-a17a-7caf64757198
+}	java:S107/"BConstructor has 18 parameters, which is greater than 7 authorized.(µê”ƒJ$1e967d12-dbf1-455c-83eb-8a5a80cc2575
+”
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¯ÕÊŠøÿÿÿÿJ$f7339fd1-8ef7-47c9-8a1a-10acb830a185
+
+java:S3358Î"DExtract this nested ternary operation into an independent statement.(‡´ÛŒJ$93b6040b-c0d1-4a1c-915a-9c692b6033c2
+]
+java:S2129‡" Remove this "String" constructor(ï”ÒñJ$08114525-a754-4711-a52c-505de2b82582
+x	java:S125±"<This block of commented-out lines of code should be removed.(ë£¼ëJ$223aa47b-4e57-4063-b26b-52ddb97d3c27
+}	java:S125í"<This block of commented-out lines of code should be removed.(¼‚ÿÃûÿÿÿÿJ$ab36c178-bca7-4cbb-bcec-9cb6e6faabcb
+}	java:S125²"<This block of commented-out lines of code should be removed.(Å¾Š…ıÿÿÿÿJ$52e0b858-8915-44c5-877e-bf4ca76b5cf7
+x	java:S125ù"<This block of commented-out lines of code should be removed.(½‘Ñ³J$5e17bbac-28cf-46f3-b0fd-036955d11370
+}	java:S125"<This block of commented-out lines of code should be removed.(ÌÆ›şÿÿÿÿJ$6e537a2c-3628-4323-8cb7-4b44b3380054
+x	java:S125"<This block of commented-out lines of code should be removed.(¼Â¸æJ$3cdae758-5b59-4622-a4d6-be34e9a523fe
+x	java:S125¨"<This block of commented-out lines of code should be removed.(½‘Ñ³J$d52b08dd-e9e3-43f1-9849-2accd04d3bc1
+x	java:S125ê"<This block of commented-out lines of code should be removed.(ÇÊÃıJ$6fa37868-89fe-465c-866d-f167446282d3
+x	java:S125˜"<This block of commented-out lines of code should be removed.(¢†ËJ$ce93e5fa-7fa0-4306-b1ba-10d1ab8baa4e
+v	java:S125Ë"<This block of commented-out lines of code should be removed.(Ù¶vJ$1e6cfc68-2ef9-4988-93ac-6e2902a34607
+}	java:S125Á	"<This block of commented-out lines of code should be removed.(íÅÒÿÿÿÿÿJ$15a832bb-1d85-41de-b34a-8d5a8cfd71a1
+h
+java:S1068",Remove this unused "language" private field.(üŸèØJ$cdd68eec-b177-4d8e-93fc-d0013f7e3933
+k
+java:S1068"*Remove this unused "review" private field.(õ­ÇœüÿÿÿÿJ$dacd9e3a-da07-4224-9c0d-3e0f40d21517
+m
+java:S1068"1Remove this unused "reviewQueries" private field.(Õ÷µ°J$3dfa5e3c-3bcf-4644-955d-3a1f7f3e2e14
+h
+java:S1068"-Remove this unused "specialty" private field.(­ü»#J$07ec5aff-c8e4-495a-a25b-e5762e74a020
+l
+java:S1068 "0Remove this unused "healthCenter" private field.(Ã‡«ƒJ$29d9d74a-6786-436a-b2a3-12be26064c96
+j
+java:S1068'".Remove this unused "reviewPage" private field.(¼Ç¹´J$68b55032-55e1-4604-93b0-28ebdc2199eb
+|
+java:S1144Ã"@Remove this unused private "setHealthCenterItemsVisible" method.(ô¥š9J$dd94aa2b-6e21-4a39-b2b0-aaccc707bf32
+{
+java:S1144°	"9Remove this unused private "showHealthCenterForm" method.(„Úå¤ÿÿÿÿÿJ$a3ce9bc6-331f-41ca-8562-84f5b1d96bcb

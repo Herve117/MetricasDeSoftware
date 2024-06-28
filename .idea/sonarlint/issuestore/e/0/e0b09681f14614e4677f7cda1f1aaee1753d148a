@@ -1,0 +1,155 @@
+
+`
+java:S1192["JDefine a constant instead of duplicating this literal "Segoe UI" 10 times.(…“şÅ
+`
+java:S1192–"IDefine a constant instead of duplicating this literal "Eliminar" 3 times.(ùÔÍú
+C
+java:S1604d"(Make this anonymous inner class a lambda(Š¾…ÿûÿÿÿÿ
+>
+java:S1604{"(Make this anonymous inner class a lambda(™À¹
+D
+java:S1604›"(Make this anonymous inner class a lambda(‰¡ÿ”ûÿÿÿÿ
+D
+java:S1604¦"(Make this anonymous inner class a lambda(­ªª¾üÿÿÿÿ
+?
+java:S1604Ú"(Make this anonymous inner class a lambda(ìÆù÷
+D
+java:S1604å"(Make this anonymous inner class a lambda(›˜ü¾üÿÿÿÿ
+?
+java:S1604°"(Make this anonymous inner class a lambda(•±¸è
+D
+java:S1604Å"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+y
+java:S1104Í"]Make addLanguageButton a static final constant or non-public and provide accessors if needed.(ŠæÍ£şÿÿÿÿ
+s
+java:S1104Î"\Make addNewDataButton a static final constant or non-public and provide accessors if needed.(ÎÛƒÿ
+u
+java:S1104Ï"^Make addSpecialtyButton a static final constant or non-public and provide accessors if needed.(î¿´ã
+r
+java:S1104Ğ"[Make attributesPanel a static final constant or non-public and provide accessors if needed.(™÷¬·
+r
+java:S1104Ñ"VMake backButton a static final constant or non-public and provide accessors if needed.(Ã³â‰ÿÿÿÿÿ
+v
+java:S1104Ò"ZMake cleanSelection a static final constant or non-public and provide accessors if needed.(ê»Áûÿÿÿÿ
+r
+java:S1104Ó"[Make coverImageLabel a static final constant or non-public and provide accessors if needed.(ô©ß
+s
+java:S1104Ô"\Make deleteDataButton a static final constant or non-public and provide accessors if needed.(Á¤Æ€
+|
+java:S1104Õ"`Make deleteLanguageButton a static final constant or non-public and provide accessors if needed.(·€ß¯úÿÿÿÿ
+}
+java:S1104Ö"aMake deleteSpecialtyButton a static final constant or non-public and provide accessors if needed.(Şš¹•üÿÿÿÿ
+l
+java:S1104×"VMake exitButton a static final constant or non-public and provide accessors if needed.(í–©
+q
+java:S1104Ø"UMake formPanel a static final constant or non-public and provide accessors if needed.(ó«–Ãüÿÿÿÿ
+ƒ
+java:S1104Ù"gMake healthCenterAddressTextArea a static final constant or non-public and provide accessors if needed.(ÙÉ™éÿÿÿÿÿ
+‡
+java:S1104Ú"kMake healthCenterDescriptionTextArea a static final constant or non-public and provide accessors if needed.(ª¹Èµÿÿÿÿÿ
+v
+java:S1104Û"_Make healthCenterIdLabel a static final constant or non-public and provide accessors if needed.(³ŠÚ
+|
+java:S1104Ü"eMake healthCenterNameTextField a static final constant or non-public and provide accessors if needed.(ãıÔÏ
+|
+java:S1104İ"fMake healthCenterPhoneTextField a static final constant or non-public and provide accessors if needed.(Ğ´{
+u
+java:S1104Ş"^Make healthCentersTable a static final constant or non-public and provide accessors if needed.(Ì¼Í
+o
+java:S1104ß"YMake imageSelector a static final constant or non-public and provide accessors if needed.(’ÔºS
+v
+java:S1104à"_Make insertnewDataButton a static final constant or non-public and provide accessors if needed.(ôûÛè
+o
+java:S1104ê"SMake jPanel2 a static final constant or non-public and provide accessors if needed.(¯é†ƒüÿÿÿÿ
+{
+java:S1104î"dMake languageSelectorCombobox a static final constant or non-public and provide accessors if needed.(™¢ëá
+‰
+java:S1104ï"mMake languagesByHealthCenterIdCombobox a static final constant or non-public and provide accessors if needed.(¼ğì‡ûÿÿÿÿ
+r
+java:S1104ğ"\Make modifyDataButton a static final constant or non-public and provide accessors if needed.(ÆøÆ
+o
+java:S1104ñ"XMake refreshTable a static final constant or non-public and provide accessors if needed.(¬Áƒö
+‹
+java:S1104ò"oMake specialtiesByHealthCenterIdComboBox a static final constant or non-public and provide accessors if needed.(©ä¶Âıÿÿÿÿ
+|
+java:S1104ó"eMake specialtySelectorComboBox a static final constant or non-public and provide accessors if needed.(Â¡ªê
+m
+java:S1104ô"VMake tablePanel a static final constant or non-public and provide accessors if needed.(ŠÓ‰Ğ
+r
+java:S1450á"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450â"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+r
+java:S1450ã"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450ä"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450å"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450æ"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450ç"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450è"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450é"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450ë"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+w
+java:S1450ì"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+w
+java:S1450í"[Remove the "jScrollPane3" field and declare it as a local variable in the relevant methods.(Ò‰êêùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(­¡—Ø
+Q
+java:S1161©":Add the "@Override" annotation above this method signature(—¶Ğé
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(™ÅšÊûÿÿÿÿ
+F
+java:S1172ù"*Remove this unused method parameter "evt".(Òš¸æÿÿÿÿÿ
+N
+java:S1135ú"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ı"*Remove this unused method parameter "evt".(˜­İ§
+N
+java:S1135ş"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172"*Remove this unused method parameter "evt".(ã´ÊÃ
+N
+java:S1135‚"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172…"*Remove this unused method parameter "evt".(¯´éˆ
+N
+java:S1135†"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+@
+java:S1172Š"*Remove this unused method parameter "evt".(Ùé—
+N
+java:S1135‹"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Óªåµ
+A
+java:S1172‘"*Remove this unused method parameter "evt".(©¡¤ñ
+N
+java:S1135’"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172–"*Remove this unused method parameter "evt".(Öµ«
+N
+java:S1135—"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172š"*Remove this unused method parameter "evt".(‘Ù²×ıÿÿÿÿ
+N
+java:S1135›"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "evt".(´¤™úøÿÿÿÿ
+N
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197¥"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147´"ECombine this catch with the one at line 562, which has the same body.(¨¦Š½
+\
+java:S2147¶"ECombine this catch with the one at line 564, which has the same body.(ã€ 
+[
+java:S2147¸"ECombine this catch with the one at line 566, which has the same body.(ñÎ¯%
+S
+java:S1128"8Remove this unused import 'java.awt.event.MouseAdapter'.( ÜÍÁûÿÿÿÿ
+L
+java:S1128	"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ

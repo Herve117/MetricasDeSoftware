@@ -1,0 +1,16 @@
+
+Š
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢ùJ$96da6de3-e559-4454-8a11-947b6a35930d
+Š
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢ùJ$438cfcad-ef65-4462-8fc8-735d20a5fbd2
+Š
+java:S2095J"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢ùJ$433d9f80-e81e-4ba5-baf2-ad6cc5b24061
+f	java:S106'"+Replace this use of System.out by a logger.(òÎ‡ßJ$5c4130d1-be5f-4cc1-bab6-f32d4a6ba57d
+k	java:S1067"+Replace this use of System.out by a logger.(¶‰¼‚ıÿÿÿÿJ$088a6efb-a2e8-4df2-bedf-04c6f3917098
+f	java:S106="+Replace this use of System.out by a logger.(òÎ‡ßJ$fe8f7eaa-a82a-4fa4-99e6-1ff181e82368
+`
+java:S6905G"Don't use the query "SELECT *".(ÔÍÎšøÿÿÿÿJ$7e8cf423-152e-49ea-9106-67e2782debf9
+k	java:S106["+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$bc72aa5c-4824-4353-8b4e-8f88476e621e
+g
+java:S1168\"+Return an empty collection instead of null.(¥¹ïJ$ed6f17ac-cca0-4f50-b4f5-d703925477ed
+k	java:S106a"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$90492022-6385-4e59-9edf-88fc8582da84
